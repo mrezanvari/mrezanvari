@@ -1,3 +1,9 @@
+<!---
+<a href="https://github.com/mrezanvari/mrezanvari">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrezanvari&show_icons=true&count_private=true alt="Aslan's GitHub Stats" />
+</a>
+--->      
+          
 - 👋 Hi, I’m @mrezanvari
 - 👀 I’m interested in computational arts. Most importantly, music!
 - 🌱 I’m currently learning audio processing and synthesis with python
